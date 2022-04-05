@@ -11,7 +11,7 @@ Install my-project with npm
   cd my-project
 ```
     
-# Hi, I'm Abdy! 👋   <a href="https://imgbb.com/"><img src="https://i.ibb.co/LNHWmj3/Abdy.png" alt="Abdy" border="0"></a>
+# Hi, I'm Abdy! 👋   <a href="https://imgbb.com/"><img src="https://i.ibb.co/X4Kjjck/Abdy-removebg-preview.png" alt="Abdy-removebg-preview" border="0"></a>
 
 
 ## 🔗 Links
